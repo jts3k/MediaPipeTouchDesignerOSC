@@ -18,8 +18,8 @@ Hand tracking normally tracks up to two hands. One-handed mode locks tracking to
 
 ## Requirements
 
-- [TouchDesigner](https://derivative.ca/) (tested on recent stable builds)
-- [MediaPipe TouchDesigner plugin](https://github.com/torinmb/mediapipe-touchdesigner) by Torin Blankensmith
+- [TouchDesigner](https://derivative.ca/) 
+
 
 ## Files
 
@@ -28,9 +28,9 @@ Hand tracking normally tracks up to two hands. One-handed mode locks tracking to
 
 ## Usage
 
-1. Install the MediaPipe TouchDesigner plugin per its documentation.
+1. Install [TouchDesigner](https://derivative.ca/).
 2. Open `MP-TD-OSC.toe` in TouchDesigner.
-3. Configure the OSC output IP address and port to match your receiving application.
+3. Configure the OSC output port to match your receiving application.
 4. Enable the tracking modes you need (face, hand, pose).
 5. Toggle body centering and/or one-handed mode as needed for your project.
 
