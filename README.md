@@ -14,7 +14,7 @@ When enabled, the body centering feature offsets all tracked pose landmarks rela
 
 ## One-Handed Mode
 
-Hand tracking normally tracks up to two hands. One-handed mode locks tracking to a single hand, which can simplify OSC routing and reduce noise in projects that only need one hand as input.
+Tracks and reports data for only one hand.
 
 ## Requirements
 
